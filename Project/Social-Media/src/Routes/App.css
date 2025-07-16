@@ -1,0 +1,32 @@
+.socialMe{
+    display: flex;
+    flex-wrap: nowrap;
+
+}
+.socialContent{
+   width: 100%;
+}
+.post-card{
+    margin: 20px 50px;
+    min-width: 30rem;
+}
+.tag{
+margin: 0px 3px;
+}
+.reaction{
+    margin: 5px 0px;
+}
+.create-post{
+   width: 80%; 
+   margin:40px;
+}
+.welcome{
+margin: 10px 0px;
+color: rgb(175, 118, 153);
+font-weight: 700;
+font-size: 40px;
+
+}
+.spinner{
+    margin: 10%;
+}

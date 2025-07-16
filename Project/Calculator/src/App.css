@@ -1,0 +1,22 @@
+.calculator{
+    border: solid rgb(215, 212, 212);
+    width: 20%;
+}
+input{
+        margin: 17px;
+  
+    width: 90%;
+   font-size: 40px;
+    border-radius: 10px;
+}
+.Button-container{
+display: flex;
+justify-content: center;
+    flex-wrap: wrap;
+}
+.button{
+height: 75px;
+    width: 75px;
+    margin: 5px;
+    border-radius: 5px;
+}

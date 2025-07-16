@@ -1,0 +1,18 @@
+.heading{
+    font-size: 53px;
+    font-weight: 700;
+    margin: 20px;
+    margin-bottom: 20px;
+}
+input{
+    width: 100%;
+}
+.items-container{
+    text-align: left;
+}
+.kg-row{
+    margin: 10px;
+}
+.kg-button{
+    min-width: 85px;
+}
